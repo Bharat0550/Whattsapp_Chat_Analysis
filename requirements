@@ -1,0 +1,9 @@
+# Libraries required for this project
+
+streamlit = To create web app
+matplotlib = To visualize data
+seaborn
+urlextract = To extract media shared links
+wordcloud = To extract more frequent words
+pandas = To pre_process the data frame
+emoji = To get emojis
